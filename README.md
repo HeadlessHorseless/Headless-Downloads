@@ -8,6 +8,7 @@
 - [Compiled NaCl](https://cdn.discordapp.com/attachments/874303640469393479/889460652912021504/NaCl.dll) (multiple source games)
 - [Praseodymium V2](https://cdn.discordapp.com/attachments/874303640469393479/889460870889996288/1.dll) (tf2)
 - [Alienware](https://cdn.discordapp.com/attachments/874303640469393479/889461099018211369/alienware.dll) (csgo)
+- [Garry's mod Crack](https://cdn.discordapp.com/attachments/874303640469393479/889465237122715708/garrysmod-cracked.exe) (game crack)
 ```
 before anyone asks
 hackerinstall is a downloader for several other hacks that are not listed in here
