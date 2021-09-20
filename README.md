@@ -3,7 +3,7 @@
 - [Premium Lmaobox crack](https://cdn.discordapp.com/attachments/874303640469393479/889459053825228810/lmaobox.dll) (tf2)
 - [Nullcore Crack](https://cdn.discordapp.com/attachments/874303640469393479/889460095849742366/nullcore.dll) (tf2)
 - [Chams.cc crack](https://cdn.discordapp.com/attachments/874303640469393479/889460175369555988/chamscc.dll) (tf2)
-- [GameOwner (injector)](https://cdn.discordapp.com/attachments/874303640469393479/889460436540481576/GameOwner.exe)
+- [GameOwner](https://cdn.discordapp.com/attachments/874303640469393479/889460436540481576/GameOwner.exe) (injector)
 - [LemiGmod](https://cdn.discordapp.com/attachments/874303640469393479/889460565049749534/lemi.dll) (gmod)
 - [Compiled NaCl](https://cdn.discordapp.com/attachments/874303640469393479/889460652912021504/NaCl.dll) (multiple source games)
 - [Praseodymium V2](https://cdn.discordapp.com/attachments/874303640469393479/889460870889996288/1.dll) (tf2)
