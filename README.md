@@ -10,7 +10,7 @@
 - [Praseodymium V2](https://cdn.discordapp.com/attachments/874303640469393479/889460870889996288/1.dll) (tf2)
 - [Alienware](https://cdn.discordapp.com/attachments/874303640469393479/889461099018211369/alienware.dll) (csgo)
 - [FedoraWare](https://cdn.discordapp.com/attachments/874303640469393479/893252314272518184/FwareRelease.dll) (tf2)
-- [JustInCase FedoraWare](https://cdn.discordapp.com/attachments/874303640469393479/894928026645700678/FwareRelease.dll) (tf2) (IGNORE) (SOON TO BE DELETED)
+- [JustInCase FedoraWare](https://cdn.discordapp.com/attachments/874303640469393479/894935682714337330/FwareRelease.dll) (tf2) (IGNORE) (SOON TO BE DELETED)
 ```
 before anyone asks
 hackerinstall is a downloader for several other hacks that are not listed in here
