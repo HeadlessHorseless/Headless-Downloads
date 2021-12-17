@@ -3,8 +3,8 @@
 - Quick warning: Most of these cheats ARE VAC detected
 - DO NOT USE ON YOUR MAIN
 - [hackerinstall](https://cdn.discordapp.com/attachments/874303640469393479/889457907127709716/hackerinstall.exe) (tf2) (downloader)
-- Premium Lmaobox crack (REMOVED DUE TO BEING A VIRUS)
-- Nullcore Crack (REMOVED BECAUSE IT DOESNT WORK ANYMORE)
+- ~~Premium Lmaobox crack~~ (REMOVED DUE TO BEING A VIRUS)
+- ~~Nullcore Crack~~ (REMOVED BECAUSE IT DOESNT WORK ANYMORE)
 - [Chams.cc crack](https://cdn.discordapp.com/attachments/874303640469393479/889460175369555988/chamscc.dll) (tf2)
 - [GameOwner](https://cdn.discordapp.com/attachments/874303640469393479/889460436540481576/GameOwner.exe) (injector)
 - [LemiGmod](https://cdn.discordapp.com/attachments/874303640469393479/889460565049749534/lemi.dll) (gmod)
