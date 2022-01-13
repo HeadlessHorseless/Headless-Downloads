@@ -16,7 +16,7 @@
 before anyone asks
 hackerinstall is a downloader for several other hacks that are not listed in here
 ```
-- [Virustotal Scan for hackerinstall](https://www.virustotal.com/gui/file/a09f8aecc287aaf0eb90deb58e72f886692004c310e66d9b9516196ee3fe4b61)
+- [Virustotal Scan for hackerinstall](https://www.virustotal.com/gui/file/a09f8aecc287aaf0eb90deb58e72f886692004c310e66d9b9516196ee3fe4b61) (Now an old scan) 
 ## Custom:
 - [Game0](https://drive.google.com/file/d/1VkcfTeqWAM0baBzi0wh4J_-ChZ0S5-s6/view) (Custom game) (External link due to file size)
 - [HeadlessHack Text only Dev build 180921](https://cdn.discordapp.com/attachments/874303640469393479/890252946493825066/HeadlessHack_DEVBUILD_180921.bat) (Batch) (put here to show a preview of what HHack might look like (only the launcher NOT THE CHEAT ITSELF))
