@@ -21,11 +21,7 @@ hackerinstall is a downloader for several other hacks that are not listed in her
 - [Game0](https://drive.google.com/file/d/1VkcfTeqWAM0baBzi0wh4J_-ChZ0S5-s6/view) (Custom game) (External link due to file size)
 - [File generator](https://cdn.discordapp.com/attachments/874303640469393479/890253373226496000/File_Generator.bat) (Batch)
 - [Number Generator](https://cdn.discordapp.com/attachments/874303640469393479/890253832662171738/number_generator.bat) (Batch)
-```
-These files are all custom made and uploaded only on here
-if you find them uploaded at some other website (which isnt github or google drive or maybe even on discord)
-they might have been stolen and possibly edited to be viruses (as if thats ever gonna happen)
-```
+
 ## MVM custom missions
 ```
 Most of these missions are unfinished/broken
