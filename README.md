@@ -9,8 +9,7 @@
 - [GameOwner](https://cdn.discordapp.com/attachments/874303640469393479/889460436540481576/GameOwner.exe) (injector)
 - [LemiGmod](https://cdn.discordapp.com/attachments/874303640469393479/889460565049749534/lemi.dll) (gmod)
 - [Compiled NaCl](https://cdn.discordapp.com/attachments/874303640469393479/889460652912021504/NaCl.dll) (multiple source games)
-- [Praseodymium V2](https://cdn.discordapp.com/attachments/874303640469393479/889460870889996288/1.dll) (tf2)
-- [Alienware](https://cdn.discordapp.com/attachments/874303640469393479/889461099018211369/alienware.dll) (csgo)
+- [Praseodymium V2](https://cdn.discordapp.com/attachments/874303640469393479/889460870889996288/1.dll) (tf2) (from what i know this is outdated)
 - [FedoraWare](https://cdn.discordapp.com/attachments/874303640469393479/893252314272518184/FwareRelease.dll) (tf2) (potentially old and outdated)
 ```
 before anyone asks
