@@ -11,6 +11,8 @@
 - [Compiled NaCl](https://cdn.discordapp.com/attachments/874303640469393479/889460652912021504/NaCl.dll) (multiple source games)
 - [Praseodymium V2](https://cdn.discordapp.com/attachments/874303640469393479/889460870889996288/1.dll) (tf2) (from what i know this is outdated)
 - [FedoraWare](https://cdn.discordapp.com/attachments/874303640469393479/893252314272518184/FwareRelease.dll) (tf2) (potentially old and outdated)
+- [Lithium january 2021 build](https://cdn.discordapp.com/attachments/874303640469393479/943927305187762227/hack.dll) (tf2) (old and outdated but still keeping it here)
+- [Lithium November 2018 build](https://cdn.discordapp.com/attachments/874303640469393479/943927624437202984/lith.dll) (tf2) (why does this still work)
 ```
 before anyone asks
 hackerinstall is a downloader for several other hacks that are not listed in here
