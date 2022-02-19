@@ -2,9 +2,9 @@
 ## Cheats:
 - Quick warning: Most of these cheats ARE VAC detected
 - DO NOT USE ON YOUR MAIN
-- ~~hackerinstall~~ (tf2) (downloader) (REMOVED because i forgot to remove an early version of headlesshack from it)
-- ~~Premium Lmaobox crack~~ (REMOVED DUE TO BEING A VIRUS)
-- ~~Nullcore Crack~~ (REMOVED BECAUSE IT DOESNT WORK ANYMORE)
+- ~~hackerinstall~~ (tf2) (downloader) (REMOVED)
+- ~~Premium Lmaobox crack~~ (REMOVED)
+- ~~Nullcore Crack~~ (REMOVED)
 - [Chams.cc crack](https://cdn.discordapp.com/attachments/874303640469393479/889460175369555988/chamscc.dll) (tf2) (bad cheat)
 - [GameOwner](https://cdn.discordapp.com/attachments/874303640469393479/889460436540481576/GameOwner.exe) (injector)
 - [LemiGmod](https://cdn.discordapp.com/attachments/874303640469393479/889460565049749534/lemi.dll) (gmod)
