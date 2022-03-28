@@ -14,7 +14,7 @@
 - [New FedoraWare](https://cdn.discordapp.com/attachments/874303640469393479/947929237606764544/New_Fedoraware.dll) (tf2) (slightly outdated due to the amount of updates it gets)
 - [Lithium january 2021 build](https://cdn.discordapp.com/attachments/874303640469393479/943927305187762227/hack.dll) (tf2) (old and outdated but still keeping it here)
 - [Lithium November 2018 build](https://cdn.discordapp.com/attachments/874303640469393479/943927624437202984/lith.dll) (tf2) (why does this still work)
-- [Lmaobox Free Version](https://cdn.discordapp.com/attachments/874303640469393479/947929560694018149/freebox.dll) (tf2) (yes i did manage to get my hands on the freebox dll)
+- [Lmaobox Free Version](https://cdn.discordapp.com/attachments/874303640469393479/947929560694018149/freebox.dll) (tf2) (this is the dll NOT the loader itself)
 ```
 before anyone asks
 hackerinstall is a downloader for several other hacks that are not listed in here
