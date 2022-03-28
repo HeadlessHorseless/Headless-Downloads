@@ -34,6 +34,6 @@ Most of these missions are unfinished/broken
 ## Other:
 
 - [Garry's mod Crack](https://cdn.discordapp.com/attachments/874303640469393479/889465237122715708/garrysmod-cracked.exe) (game crack) (totally real)
-- [TF2 Classic Mirror (directly taken from another page)](https://gg.apple-shack.org/tf2c/tf2classic-latest.zip) (tf2 source mod)
+- [TF2 Classic Mirror](https://gg.apple-shack.org/tf2c/tf2classic-latest.zip) (tf2 source mod) (directly taken from another page meaning external download and also due to file size)
 
 ## More comming soon!
