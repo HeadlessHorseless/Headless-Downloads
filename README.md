@@ -4,7 +4,7 @@
 - DO NOT USE ON YOUR MAIN
 - ~~hackerinstall~~ (tf2) (downloader) (REMOVED)
 - ~~Premium Lmaobox crack~~ (REMOVED)
-- [Nullcore Crack](https://cdn.discordapp.com/attachments/874303640469393479/889460095849742366/nullcore.dll) (tf2) (same situation as lithium)
+- [Nullcore Crack](https://cdn.discordapp.com/attachments/874303640469393479/889460095849742366/nullcore.dll) (tf2) (Doesnt work!) (left here for testing purposes)
 - [Chams.cc crack](https://cdn.discordapp.com/attachments/874303640469393479/889460175369555988/chamscc.dll) (tf2) (bad cheat)
 - [GameOwner](https://cdn.discordapp.com/attachments/874303640469393479/889460436540481576/GameOwner.exe) (injector)
 - [LemiGmod](https://cdn.discordapp.com/attachments/874303640469393479/889460565049749534/lemi.dll) (gmod)
@@ -12,7 +12,7 @@
 - [Praseodymium V2](https://cdn.discordapp.com/attachments/874303640469393479/889460870889996288/1.dll) (tf2) (from what i know this is outdated)
 - [FedoraWare](https://cdn.discordapp.com/attachments/874303640469393479/893252314272518184/FwareRelease.dll) (tf2) (September 26 2021 build)
 - [New FedoraWare](https://cdn.discordapp.com/attachments/874303640469393479/947929237606764544/New_Fedoraware.dll) (tf2) (slightly outdated due to the amount of updates it gets)
-- [Lithium january 2021 build](https://cdn.discordapp.com/attachments/874303640469393479/943927305187762227/hack.dll) (tf2) (old and outdated but still keeping it here)
+- [Lithium january 2021 build](https://cdn.discordapp.com/attachments/874303640469393479/943927305187762227/hack.dll) (tf2) (Doesnt work!) (left here for testing purposes)
 - [Lithium November 2018 build](https://cdn.discordapp.com/attachments/874303640469393479/943927624437202984/lith.dll) (tf2) (why does this still work)
 - [Lmaobox Free Version](https://cdn.discordapp.com/attachments/874303640469393479/947929560694018149/freebox.dll) (tf2) (this is the dll NOT the loader itself)
 ```
