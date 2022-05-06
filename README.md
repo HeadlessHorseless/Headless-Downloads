@@ -13,7 +13,7 @@
 - [FedoraWare](https://cdn.discordapp.com/attachments/874303640469393479/893252314272518184/FwareRelease.dll) (tf2) (September 26 2021 build)
 - [New FedoraWare](https://cdn.discordapp.com/attachments/874303640469393479/947929237606764544/New_Fedoraware.dll) (tf2) (slightly outdated due to the amount of updates it gets)
 - [Lithium january 2021 build](https://cdn.discordapp.com/attachments/874303640469393479/943927305187762227/hack.dll) (tf2) (Doesnt work!) (left here for testing purposes)
-- [Lithium November 2018 build](https://cdn.discordapp.com/attachments/874303640469393479/943927624437202984/lith.dll) (tf2) (why does this still work)
+- [Lithium November 2018 build](https://cdn.discordapp.com/attachments/874303640469393479/943927624437202984/lith.dll) (tf2) (No longer works!)
 - [Lmaobox Free Version](https://cdn.discordapp.com/attachments/874303640469393479/947929560694018149/freebox.dll) (tf2) (this is the dll NOT the loader itself)
 - [Hydrogen](https://cdn.discordapp.com/attachments/874303640469393479/965019794921357363/tf2paste1.7z) (tf2) (random cheat i found on lithiumcheats)
 - [Jengaware](https://cdn.discordapp.com/attachments/874303640469393479/965019837569060874/tf2paste2.7z) (tf2) (random cheat i found on lithiumcheats)
