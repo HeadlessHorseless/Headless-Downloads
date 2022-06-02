@@ -12,7 +12,7 @@
 - [Praseodymium V2](https://cdn.discordapp.com/attachments/874303640469393479/889460870889996288/1.dll) (tf2) (you can surprisingly make follow bots with this)
 - [FedoraWare](https://cdn.discordapp.com/attachments/874303640469393479/893252314272518184/FwareRelease.dll) (tf2) (September 26 2021 build)
 - [New FedoraWare](https://cdn.discordapp.com/attachments/874303640469393479/947929237606764544/New_Fedoraware.dll) (tf2) (slightly outdated due to the amount of updates it gets)
-- [Lithium january 2021 build](https://cdn.discordapp.com/attachments/874303640469393479/943927305187762227/hack.dll) (tf2) (Doesnt work!) (left here for testing purposes)
+- [Lithium january 2021 build](https://cdn.discordapp.com/attachments/874303640469393479/943927305187762227/hack.dll) (tf2) This still works for tf2 sourcemods (example: TF2C)
 - [Lithium November 2018 build](https://cdn.discordapp.com/attachments/874303640469393479/943927624437202984/lith.dll) (tf2) (No longer works!)
 - [Lmaobox Free Version](https://cdn.discordapp.com/attachments/874303640469393479/947929560694018149/freebox.dll) (tf2) (this is the dll NOT the loader itself)
 - [Hydrogen](https://cdn.discordapp.com/attachments/874303640469393479/965019794921357363/tf2paste1.7z) (tf2) (random cheat i found on lithiumcheats)
@@ -36,6 +36,6 @@ Most of these missions are unfinished/broken
 ## Other:
 
 - [Garry's mod Crack](https://cdn.discordapp.com/attachments/874303640469393479/889465237122715708/garrysmod-cracked.exe) (game crack) (totally real)
-- [TF2 Classic Mirror](https://gg.apple-shack.org/tf2c/tf2classic-latest.zip) (tf2 source mod) (directly taken from another page meaning external download and also due to file size)
+- [TF2 Classic Mirror](https://gg.apple-shack.org/tf2c/tf2classic-latest.zip) (tf2 source mod) (!!NO LONGER NEEDED!! TF2C is back)
 
 # More comming soon!
