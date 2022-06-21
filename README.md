@@ -17,7 +17,7 @@
 - [Lmaobox Free Version](https://cdn.discordapp.com/attachments/874303640469393479/947929560694018149/freebox.dll) (tf2) (this is the dll NOT the loader itself)
 - [Hydrogen](https://cdn.discordapp.com/attachments/874303640469393479/965019794921357363/tf2paste1.7z) (tf2) (random cheat i found on lithiumcheats)
 - [Jengaware](https://cdn.discordapp.com/attachments/874303640469393479/965019837569060874/tf2paste2.7z) (tf2) (random cheat i found on lithiumcheats)
-- [CAM Leak](https://cdn.discordapp.com/attachments/874303640469393479/944337990837227620/cam.dll) (tf2) (might be outdated)
+- [CAM Leak](https://cdn.discordapp.com/attachments/874303640469393479/944337990837227620/cam.dll) (tf2)
 ```
 before anyone asks
 hackerinstall is a downloader for several other hacks that are not listed in here
