@@ -18,6 +18,7 @@
 - [Hydrogen](https://cdn.discordapp.com/attachments/874303640469393479/965019794921357363/tf2paste1.7z) (tf2) (random cheat i found on lithiumcheats)
 - [Jengaware](https://cdn.discordapp.com/attachments/874303640469393479/965019837569060874/tf2paste2.7z) (tf2) (random cheat i found on lithiumcheats)
 - [CAM Leak](https://cdn.discordapp.com/attachments/874303640469393479/944337990837227620/cam.dll) (tf2)
+- [Lithium 1.7.4](https://cdn.discordapp.com/attachments/874303640469393479/1000537116268318780/Lithium_1.7.4.dll) (tf2) (how the actual fuck is this not broken yet i mean the silent in the cheat is broke but everything else functions just fine)
 ```
 before anyone asks
 hackerinstall is a downloader for several other hacks that are not listed in here
