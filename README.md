@@ -1,6 +1,7 @@
 # Headless-Downloads
 ## Cheats:
 - Quick warning: Most of these cheats ARE VAC detected
+- Some of these cheats are broken and are left here so you can use them in older builds of tf2
 - DO NOT USE ON YOUR MAIN
 - ~~hackerinstall~~ (tf2) (downloader) (REMOVED)
 - ~~Premium Lmaobox crack~~ (REMOVED)
@@ -10,14 +11,13 @@
 - [LemiGmod](https://cdn.discordapp.com/attachments/874303640469393479/889460565049749534/lemi.dll) (gmod)
 - [Compiled NaCl](https://cdn.discordapp.com/attachments/874303640469393479/889460652912021504/NaCl.dll) (multiple source games)
 - [Praseodymium V2](https://cdn.discordapp.com/attachments/874303640469393479/889460870889996288/1.dll) (tf2) (you can surprisingly make follow bots with this)
-- [FedoraWare](https://cdn.discordapp.com/attachments/874303640469393479/893252314272518184/FwareRelease.dll) (tf2) (September 26 2021 build)
-- [New FedoraWare](https://cdn.discordapp.com/attachments/874303640469393479/947929237606764544/New_Fedoraware.dll) (tf2) (slightly outdated due to the amount of updates it gets)
+- [Old Fedoraware](https://cdn.discordapp.com/attachments/874303640469393479/893252314272518184/FwareRelease.dll) (tf2) (September 26 2021 build)
 - [Lithium january 2021 build](https://cdn.discordapp.com/attachments/874303640469393479/943927305187762227/hack.dll) (tf2) This still works for tf2 sourcemods (example: TF2C)
 - [Lithium November 2018 build](https://cdn.discordapp.com/attachments/874303640469393479/943927624437202984/lith.dll) (tf2) (No longer works!)
-- [Lmaobox Free Version](https://cdn.discordapp.com/attachments/874303640469393479/947929560694018149/freebox.dll) (tf2) (this is the dll NOT the loader itself)
+- [Lmaobox Free Version](https://cdn.discordapp.com/attachments/874303640469393479/947929560694018149/freebox.dll) (tf2) (this is the dll) (BROKEN DUE TO RECENT TF2 UPDATE)
 - [Hydrogen](https://cdn.discordapp.com/attachments/874303640469393479/965019794921357363/tf2paste1.7z) (tf2) (random cheat i found on lithiumcheats)
 - [Jengaware](https://cdn.discordapp.com/attachments/874303640469393479/965019837569060874/tf2paste2.7z) (tf2) (random cheat i found on lithiumcheats)
-- [CAM Leak](https://cdn.discordapp.com/attachments/874303640469393479/944337990837227620/cam.dll) (tf2)
+- [CAM Leak](https://cdn.discordapp.com/attachments/874303640469393479/944337990837227620/cam.dll) (tf2) (BROKEN DUE TO RECENT TF2 UPDATE)
 - [Lithium 1.7.4](https://cdn.discordapp.com/attachments/874303640469393479/1000537116268318780/Lithium_1.7.4.dll) (tf2) (how the actual fuck is this not broken yet i mean the silent in the cheat is broke but everything else functions just fine)
 ```
 before anyone asks
@@ -39,5 +39,6 @@ Most of these missions are unfinished/broken
 
 - [Garry's mod Crack](https://cdn.discordapp.com/attachments/874303640469393479/889465237122715708/garrysmod-cracked.exe) (game crack) (totally real)
 - [TF2 Classic Mirror](https://gg.apple-shack.org/tf2c/tf2classic-latest.zip) (tf2 source mod) (!!NO LONGER NEEDED!! TF2C is back)
+- [Old TF2](https://drive.google.com/file/d/1iirkJMExamyKlOceEtbqwEOM4mrTsk1P/view?usp=sharing) (This is suppost to replace the current TF2 files so make a copy of your game) (this can be used with all the old and outdated cheats listed above)
 
 # More comming soon!
