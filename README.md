@@ -9,7 +9,7 @@
 - [Chams.cc crack](https://cdn.discordapp.com/attachments/874303640469393479/889460175369555988/chamscc.dll) (tf2) (bad cheat)
 - [GameOwner](https://cdn.discordapp.com/attachments/874303640469393479/889460436540481576/GameOwner.exe) (injector)
 - [LemiGmod](https://cdn.discordapp.com/attachments/874303640469393479/889460565049749534/lemi.dll) (gmod)
-- [Compiled NaCl](https://cdn.discordapp.com/attachments/874303640469393479/889460652912021504/NaCl.dll) (multiple source games)
+- [Compiled NaCl](https://cdn.discordapp.com/attachments/874303640469393479/889460652912021504/NaCl.dll) (multiple source games) (for tf2 it broke)
 - [Praseodymium V2](https://cdn.discordapp.com/attachments/874303640469393479/889460870889996288/1.dll) (tf2) (you can surprisingly make follow bots with this)
 - [Old Fedoraware](https://cdn.discordapp.com/attachments/874303640469393479/893252314272518184/FwareRelease.dll) (tf2) (September 26 2021 build)
 - [Lithium january 2021 build](https://cdn.discordapp.com/attachments/874303640469393479/943927305187762227/hack.dll) (tf2) This still works for tf2 sourcemods (example: TF2C)
