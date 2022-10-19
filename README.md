@@ -1,15 +1,13 @@
 # Headless-Downloads
 ## Cheats:
-- Quick warning: Most of these cheats ARE VAC detected
+- Quick warning: Most of these cheats are VAC detected
 - Some of these cheats are broken and are left here so you can use them in older builds of tf2
-- DO NOT USE ON YOUR MAIN
-- ~~hackerinstall~~ (tf2) (downloader) (REMOVED)
-- ~~Premium Lmaobox crack~~ (REMOVED)
+- Do not use these on your main account (Should be common knowledge by now)
 - [Nullcore Crack](https://cdn.discordapp.com/attachments/874303640469393479/889460095849742366/nullcore.dll) (tf2) (Doesnt work!) (left here for testing purposes)
 - [Chams.cc crack](https://cdn.discordapp.com/attachments/874303640469393479/889460175369555988/chamscc.dll) (tf2) (bad cheat)
 - [GameOwner](https://cdn.discordapp.com/attachments/874303640469393479/889460436540481576/GameOwner.exe) (injector)
 - [LemiGmod](https://cdn.discordapp.com/attachments/874303640469393479/889460565049749534/lemi.dll) (gmod)
-- [Compiled NaCl](https://cdn.discordapp.com/attachments/874303640469393479/889460652912021504/NaCl.dll) (multiple source games) (for tf2 it broke)
+- [Compiled NaCl](https://cdn.discordapp.com/attachments/874303640469393479/889460652912021504/NaCl.dll) (multiple source games)
 - [Praseodymium V2](https://cdn.discordapp.com/attachments/874303640469393479/889460870889996288/1.dll) (tf2) (you can surprisingly make follow bots with this)
 - [Old Fedoraware](https://cdn.discordapp.com/attachments/874303640469393479/893252314272518184/FwareRelease.dll) (tf2) (September 26 2021 build)
 - [Lithium january 2021 build](https://cdn.discordapp.com/attachments/874303640469393479/943927305187762227/hack.dll) (tf2) This still works for tf2 sourcemods (example: TF2C)
