@@ -18,6 +18,7 @@
 - [CAM Leak](https://cdn.discordapp.com/attachments/874303640469393479/944337990837227620/cam.dll) (tf2) (BROKEN DUE TO RECENT TF2 UPDATE)
 - [Lithium 1.7.4](https://cdn.discordapp.com/attachments/874303640469393479/1000537116268318780/Lithium_1.7.4.dll) (tf2) (how the actual fuck is this not broken yet i mean the silent in the cheat is broke but everything else functions just fine)
 - [CAM V1.6](https://cdn.discordapp.com/attachments/874303640469393479/1032304226614915092/CAM.dll) (tf2) (Better version of CAM leak from the published source code (includes fix for vgui engine error))
+- [Deathpole Fixed](https://cdn.discordapp.com/attachments/874303640469393479/1041375792355082341/deathpole_Release.dll) (tf2) (Can be considered a fixed version of old fware because of the similarities Quick Warning: Thirdperson is not fixed)
 ```
 before anyone asks
 hackerinstall is a downloader for several other hacks that are not listed in here
