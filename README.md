@@ -3,8 +3,8 @@
 - Quick warning: Most of these cheats are VAC detected
 - Some of these cheats are broken and are left here so you can use them in older builds of tf2
 - Do not use these on your main account (Should be common knowledge by now)
-- [Nullcore Crack](https://cdn.discordapp.com/attachments/874303640469393479/889460095849742366/nullcore.dll) (tf2) (Doesnt work!) (left here for testing purposes)
-- [Chams.cc crack](https://cdn.discordapp.com/attachments/874303640469393479/889460175369555988/chamscc.dll) (tf2) (bad cheat)
+- [Nullcore Crack](https://cdn.discordapp.com/attachments/874303640469393479/889460095849742366/nullcore.dll) (tf2) (Doesnt work!) (New Crack: github.com/PlutoSolutions/NullCore)
+- [Chams.cc crack](https://cdn.discordapp.com/attachments/874303640469393479/889460175369555988/chamscc.dll) (tf2) (Stopped Working)
 - [GameOwner](https://cdn.discordapp.com/attachments/874303640469393479/889460436540481576/GameOwner.exe) (injector)
 - [LemiGmod](https://cdn.discordapp.com/attachments/874303640469393479/889460565049749534/lemi.dll) (gmod)
 - [Compiled NaCl](https://cdn.discordapp.com/attachments/874303640469393479/889460652912021504/NaCl.dll) (multiple source games)
@@ -16,9 +16,9 @@
 - [Hydrogen](https://cdn.discordapp.com/attachments/874303640469393479/965019794921357363/tf2paste1.7z) (tf2) (random cheat i found on lithiumcheats)
 - [Jengaware](https://cdn.discordapp.com/attachments/874303640469393479/965019837569060874/tf2paste2.7z) (tf2) (random cheat i found on lithiumcheats)
 - [CAM Leak](https://cdn.discordapp.com/attachments/874303640469393479/944337990837227620/cam.dll) (tf2) (BROKEN DUE TO RECENT TF2 UPDATE)
-- [Lithium 1.7.4](https://cdn.discordapp.com/attachments/874303640469393479/1000537116268318780/Lithium_1.7.4.dll) (tf2) (how the actual fuck is this not broken yet i mean the silent in the cheat is broke but everything else functions just fine)
-- [CAM V1.6](https://cdn.discordapp.com/attachments/874303640469393479/1053620400426340422/CAM.dll) (tf2) (Better version of CAM leak from the published source code (includes fix for vgui engine error))
-- [Deathpole Fixed](https://cdn.discordapp.com/attachments/874303640469393479/1041375792355082341/deathpole_Release.dll) (tf2) (Can be considered a fixed version of old fware because of the similarities Quick Warning: Thirdperson is not fixed)
+- [Lithium 1.7.4](https://cdn.discordapp.com/attachments/874303640469393479/1000537116268318780/Lithium_1.7.4.dll) (tf2) (The only lithium build i have that still works...somewhat)
+- [CAM V1.6](https://cdn.discordapp.com/attachments/874303640469393479/1053620400426340422/CAM.dll) (tf2) (BROKEN, I am unable to fix this for a decent while)
+- [Deathpole Fixed](https://cdn.discordapp.com/attachments/874303640469393479/1041375792355082341/deathpole_Release.dll) (tf2) (Broke again, Discontinuing Fixing on this as it's just too old to fix now.)
 ```
 before anyone asks
 hackerinstall is a downloader for several other hacks that are not listed in here
