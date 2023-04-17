@@ -3,7 +3,7 @@
 - Quick warning: Most of these cheats are VAC detected
 - Some of these cheats are broken and are left here so you can use them in older builds of tf2
 - Do not use these on your main account (Should be common knowledge by now)
-- [Nullcore Crack](https://cdn.discordapp.com/attachments/874303640469393479/889460095849742366/nullcore.dll) (tf2) (Doesnt work!) (New Crack: github.com/PlutoSolutions/NullCore)
+- [Nullcore Crack](https://cdn.discordapp.com/attachments/874303640469393479/889460095849742366/nullcore.dll) (tf2) (Doesnt work!) (New Crack got Removed! Alternative here will be comming soon!)
 - [Chams.cc crack](https://cdn.discordapp.com/attachments/874303640469393479/889460175369555988/chamscc.dll) (tf2) (Stopped Working)
 - [GameOwner](https://cdn.discordapp.com/attachments/874303640469393479/889460436540481576/GameOwner.exe) (injector)
 - [LemiGmod](https://cdn.discordapp.com/attachments/874303640469393479/889460565049749534/lemi.dll) (gmod)
