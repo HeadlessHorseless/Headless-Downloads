@@ -20,7 +20,7 @@
 - [CAM V1.6](https://cdn.discordapp.com/attachments/874303640469393479/1096586952968503307/CAM.dll) (tf2) Newer CAM build from the self leak
 - [Deathpole Fixed](https://cdn.discordapp.com/attachments/874303640469393479/1041375792355082341/deathpole_Release.dll) (tf2) Broke again, Discontinuing Fixing on this as it's just too old to fix now.
 - [Boggleshorbie leak](https://cdn.discordapp.com/attachments/874303640469393479/1124315899986452553/mismis_2.dll) (tf2) Took me a while to actually find a build
-- [Fixed reDarkstorm](https://cdn.discordapp.com/attachments/874303640469393479/1186998336172081252/fraps32.dll) (tf2) gotta be the easiest fix up i've ever done lmao
+- [Fixed reDarkstorm](https://cdn.discordapp.com/attachments/874303640469393479/1186998336172081252/fraps32.dll) (tf2) Only the crash on inject was fixed, nospread was patched and glow does not want to work. King of 2013 TF2, horrible compared to modern cheats
 ## Custom:
 - [Game0](https://drive.google.com/file/d/1VkcfTeqWAM0baBzi0wh4J_-ChZ0S5-s6/view) (Custom game) (External link due to file size)
 - [File generator](https://cdn.discordapp.com/attachments/874303640469393479/890253373226496000/File_Generator.bat) (Batch)
