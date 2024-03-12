@@ -18,6 +18,7 @@ List of everything:
 - CAM V1.6 - CAM (1).dll
 - Deathpole Fixed - deathpole_Release.dll
 - Boggleshorbie leak - mismis_2.dll
+- Fixed reDarkstorm - fraps32.dll
 - File generator - File_Generator.bat
 - Number Generator - number_generator.bat
 - 200 Waves - mvm_rottenburg_200_waves_new.pop
