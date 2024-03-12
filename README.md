@@ -1,4 +1,7 @@
 # Headless-Downloads
+# Note:
+- Due to recent discord update all of these links no longer work!
+- Please go to the files folder which can be found [here](https://github.com/HeadlessHorseless/Headless-Downloads/tree/main/Files)
 ## Cheats:
 - Quick warning: Most of these cheats are VAC detected
 - Some of these cheats are broken and are left here so you can use them in older builds of tf2
